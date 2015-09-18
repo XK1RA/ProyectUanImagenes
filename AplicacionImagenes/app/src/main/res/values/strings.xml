@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">AplicacionImagenes</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_opciones">Opciones</string>
-    <string name="title_activity_iniciar_sesion">IniciarSesion</string>
-    <string name="title_activity_recordar">Recordar</string>
-</resources>
