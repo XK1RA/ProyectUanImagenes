@@ -1,8 +1,11 @@
 <resources>
-    <string name="app_name">Imagenes</string>
+    <string name="app_name">proyectImagenes</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_sesion">Sesion</string>
-    <string name="title_activity_principal">Principal</string>
+    <string name="title_activity_general">general</string>
+    <string name="title_activity_publicar">publicar</string>
+    <string name="title_activity_categorias">categorias</string>
+    <string name="title_activity_mis_informes">misInformes</string>
+    <string name="title_activity_carrito">carrito</string>
 </resources>

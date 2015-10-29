@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.paulaalejandra.proyectimagenes.misInformes">
+    <item android:id="@+id/PRINCIPAL" android:title="PRINCIPAL"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/PUBLICAR" android:title="PUBLICAR"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/CATEGORIAS" android:title="CATEGORIAS"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/CARRITO" android:title="CARRITO"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/CERRAR_SESION" android:title="CERRAR SESION"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
